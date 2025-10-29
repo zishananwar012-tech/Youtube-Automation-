@@ -1,0 +1,8 @@
+{
+  "name": "AutoYouTubeCreator",
+  "description": "An AI-powered app to fully automate YouTube video creation by generating dynamic, animated video content from scripts, with AI-generated images converted into moving visuals synchronized with voiceovers and scene actions.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
